@@ -1,0 +1,35 @@
+﻿@model ServiceReference.Settlement
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+<h4>Settlement</h4>
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Population)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Population)
+        </dd>
+    </dl>
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" />
+    </form>
+    <a asp-controller="Home" asp-action="Index">Back to List</a>
+</div>

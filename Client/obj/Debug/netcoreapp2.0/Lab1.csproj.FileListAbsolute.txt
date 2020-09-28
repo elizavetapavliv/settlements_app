@@ -1,0 +1,32 @@
+C:\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.deps.json
+C:\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.runtimeconfig.json
+C:\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.runtimeconfig.dev.json
+C:\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.dll
+C:\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.pdb
+C:\Service\Lab1\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.AssemblyInfoInputs.cache
+C:\Service\Lab1\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.AssemblyInfo.cs
+C:\Service\Lab1\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.dll
+C:\Service\Lab1\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.pdb
+C:\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\Connected Services\ServiceReference\ConnectedService.json
+C:\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Service\Lab1\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.csprojAssemblyReference.cache
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\appsettings.json
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\Connected Services\ServiceReference\ConnectedService.json
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.deps.json
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.runtimeconfig.json
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.runtimeconfig.dev.json
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.dll
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\bin\Debug\netcoreapp2.0\Lab1.pdb
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.csprojAssemblyReference.cache
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.AssemblyInfoInputs.cache
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.AssemblyInfo.cs
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.csproj.CoreCompileInputs.cache
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.dll
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.pdb
+C:\5 семестр\Service\Lab1\Lab1\Lab1\Lab1\obj\Debug\netcoreapp2.0\Lab1.genruntimeconfig.cache

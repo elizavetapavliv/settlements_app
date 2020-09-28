@@ -1,0 +1,353 @@
+C:\Service\Lab2Service\Lab2Service\bin\Lab2Service.dll.config
+C:\Service\Lab2Service\Lab2Service\bin\Lab2Service.dll
+C:\Service\Lab2Service\Lab2Service\bin\Lab2Service.pdb
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\csc.exe
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\csc.exe.config
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\csc.rsp
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\csi.exe
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\csi.exe.config
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\csi.rsp
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.AppContext.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Console.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Diagnostics.Process.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.IO.Compression.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.IO.FileSystem.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.IO.Pipes.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Security.AccessControl.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Security.Claims.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Threading.Thread.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.ValueTuple.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Xml.XPath.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\vbc.exe
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\vbc.exe.config
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\vbc.rsp
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\VBCSCompiler.exe
+C:\Service\Lab2Service\Lab2Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Service\Lab2Service\Lab2Service\bin\EntityFramework.dll
+C:\Service\Lab2Service\Lab2Service\bin\EntityFramework.SqlServer.dll
+C:\Service\Lab2Service\Lab2Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Service\Lab2Service\Lab2Service\bin\EntityFramework.xml
+C:\Service\Lab2Service\Lab2Service\bin\EntityFramework.SqlServer.xml
+C:\Service\Lab2Service\Lab2Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Service\Lab2Service\Lab2Service\obj\Debug\Lab2Service.csproj.CopyComplete
+C:\Service\Lab2Service\Lab2Service\obj\Debug\Lab2Service.dll
+C:\Service\Lab2Service\Lab2Service\obj\Debug\Lab2Service.pdb
+C:\Service\Lab2Service\Lab2Service\bin\Microsoft.Win32.Primitives.dll
+C:\Service\Lab2Service\Lab2Service\bin\netstandard.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.AppContext.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Collections.Concurrent.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Collections.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Collections.NonGeneric.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Collections.Specialized.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.ComponentModel.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.ComponentModel.Primitives.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.ComponentModel.TypeConverter.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Console.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Data.Common.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.Contracts.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.Debug.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.Process.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.StackTrace.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.Tools.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.TraceSource.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.Tracing.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Drawing.Primitives.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Dynamic.Runtime.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Globalization.Calendars.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Globalization.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Globalization.Extensions.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.IO.Compression.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.IO.Compression.ZipFile.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.IO.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.IO.FileSystem.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.IO.FileSystem.Primitives.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.IO.FileSystem.Watcher.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.IO.IsolatedStorage.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.IO.MemoryMappedFiles.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.IO.Pipes.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Linq.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Linq.Expressions.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Linq.Parallel.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Linq.Queryable.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Net.Http.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Net.NameResolution.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Net.NetworkInformation.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Net.Ping.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Net.Primitives.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Net.Requests.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Net.Security.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Net.Sockets.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Net.WebHeaderCollection.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Net.WebSockets.Client.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Net.WebSockets.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.ObjectModel.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Reflection.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Reflection.Extensions.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Reflection.Primitives.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Resources.Reader.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Resources.ResourceManager.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Resources.Writer.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Runtime.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Runtime.Extensions.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Runtime.Handles.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Runtime.InteropServices.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Runtime.Numerics.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Runtime.Serialization.Formatters.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Runtime.Serialization.Json.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Runtime.Serialization.Primitives.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Runtime.Serialization.Xml.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Security.Claims.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Security.Cryptography.Algorithms.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Security.Cryptography.Csp.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Security.Cryptography.Encoding.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Security.Cryptography.Primitives.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Security.Principal.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Security.SecureString.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Text.Encoding.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Text.Encoding.Extensions.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Text.RegularExpressions.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Threading.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Threading.Overlapped.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Threading.Tasks.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Threading.Tasks.Parallel.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Threading.Thread.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Threading.ThreadPool.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Threading.Timer.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.ValueTuple.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Xml.ReaderWriter.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Xml.XDocument.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Xml.XmlDocument.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Xml.XmlSerializer.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Xml.XPath.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Xml.XPath.XDocument.dll
+C:\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Context.dll
+C:\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Coordination.dll
+C:\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Interop.WaitHandles.dll
+C:\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Oop.dll
+C:\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Tasks.dll
+C:\Service\Lab2Service\Lab2Service\bin\Nito.Cancellation.dll
+C:\Service\Lab2Service\Lab2Service\bin\Nito.Collections.Deque.dll
+C:\Service\Lab2Service\Lab2Service\bin\Nito.Disposables.dll
+C:\Service\Lab2Service\Lab2Service\bin\System.Collections.Immutable.dll
+C:\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Context.xml
+C:\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Coordination.xml
+C:\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Interop.WaitHandles.xml
+C:\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Oop.xml
+C:\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Tasks.xml
+C:\Service\Lab2Service\Lab2Service\bin\Nito.Cancellation.xml
+C:\Service\Lab2Service\Lab2Service\bin\Nito.Collections.Deque.xml
+C:\Service\Lab2Service\Lab2Service\bin\Nito.Disposables.pdb
+C:\Service\Lab2Service\Lab2Service\bin\Nito.Disposables.xml
+C:\Service\Lab2Service\Lab2Service\bin\System.Collections.Immutable.xml
+C:\Service\Lab2Service\Lab2Service\obj\Debug\Lab2Service.csprojAssemblyReference.cache
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Lab2Service.dll.config
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Lab2Service.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Lab2Service.pdb
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\csc.exe
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\csc.exe.config
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\csc.rsp
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\csi.exe
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\csi.exe.config
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\csi.rsp
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.AppContext.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Collections.Immutable.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Console.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Diagnostics.Process.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.IO.Compression.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.IO.FileSystem.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.IO.Pipes.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Security.AccessControl.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Security.Claims.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Security.Principal.Windows.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Threading.Thread.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.ValueTuple.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Xml.XPath.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\vbc.exe
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\vbc.exe.config
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\vbc.rsp
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\VBCSCompiler.exe
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\roslyn\VBCSCompiler.exe.config
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Microsoft.Win32.Primitives.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\netstandard.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.AppContext.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Collections.Concurrent.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Collections.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Collections.NonGeneric.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Collections.Specialized.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.ComponentModel.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.ComponentModel.EventBasedAsync.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.ComponentModel.Primitives.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.ComponentModel.TypeConverter.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Console.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Data.Common.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.Contracts.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.Debug.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.FileVersionInfo.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.Process.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.StackTrace.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.Tools.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.TraceSource.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Diagnostics.Tracing.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Drawing.Primitives.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Dynamic.Runtime.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Globalization.Calendars.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Globalization.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Globalization.Extensions.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.IO.Compression.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.IO.Compression.ZipFile.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.IO.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.IO.FileSystem.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.IO.FileSystem.DriveInfo.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.IO.FileSystem.Primitives.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.IO.FileSystem.Watcher.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.IO.IsolatedStorage.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.IO.MemoryMappedFiles.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.IO.Pipes.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.IO.UnmanagedMemoryStream.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Linq.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Linq.Expressions.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Linq.Parallel.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Linq.Queryable.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Net.Http.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Net.NameResolution.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Net.NetworkInformation.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Net.Ping.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Net.Primitives.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Net.Requests.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Net.Security.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Net.Sockets.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Net.WebHeaderCollection.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Net.WebSockets.Client.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Net.WebSockets.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.ObjectModel.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Reflection.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Reflection.Extensions.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Reflection.Primitives.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Resources.Reader.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Resources.ResourceManager.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Resources.Writer.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Runtime.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Runtime.Extensions.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Runtime.Handles.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Runtime.InteropServices.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Runtime.Numerics.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Runtime.Serialization.Formatters.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Runtime.Serialization.Json.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Runtime.Serialization.Primitives.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Runtime.Serialization.Xml.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Security.Claims.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Security.Cryptography.Algorithms.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Security.Cryptography.Csp.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Security.Cryptography.Encoding.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Security.Cryptography.Primitives.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Security.Cryptography.X509Certificates.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Security.Principal.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Security.SecureString.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Text.Encoding.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Text.Encoding.Extensions.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Text.RegularExpressions.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Threading.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Threading.Overlapped.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Threading.Tasks.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Threading.Tasks.Parallel.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Threading.Thread.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Threading.ThreadPool.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Threading.Timer.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.ValueTuple.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Xml.ReaderWriter.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Xml.XDocument.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Xml.XmlDocument.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Xml.XmlSerializer.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Xml.XPath.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Xml.XPath.XDocument.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\EntityFramework.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\EntityFramework.SqlServer.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Context.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Coordination.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Interop.WaitHandles.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Oop.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Tasks.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.Cancellation.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.Collections.Deque.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.Disposables.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Collections.Immutable.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\EntityFramework.xml
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\EntityFramework.SqlServer.xml
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Context.xml
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Coordination.xml
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Interop.WaitHandles.xml
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Oop.xml
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.AsyncEx.Tasks.xml
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.Cancellation.xml
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.Collections.Deque.xml
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.Disposables.pdb
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\Nito.Disposables.xml
+C:\5 семестр\Service\Lab2Service\Lab2Service\bin\System.Collections.Immutable.xml
+C:\5 семестр\Service\Lab2Service\Lab2Service\obj\Debug\Lab2Service.csprojAssemblyReference.cache
+C:\5 семестр\Service\Lab2Service\Lab2Service\obj\Debug\Lab2Service.csproj.CoreCompileInputs.cache
+C:\5 семестр\Service\Lab2Service\Lab2Service\obj\Debug\Lab2Service.csproj.CopyComplete
+C:\5 семестр\Service\Lab2Service\Lab2Service\obj\Debug\Lab2Service.dll
+C:\5 семестр\Service\Lab2Service\Lab2Service\obj\Debug\Lab2Service.pdb

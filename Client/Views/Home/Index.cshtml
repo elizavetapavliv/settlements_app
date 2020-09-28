@@ -1,0 +1,111 @@
+﻿@model ServiceReference.RegionIndexData
+
+@{
+    ViewData["Title"] = "Regions";
+}
+
+<h3>Regions</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Capital</th>
+            <th>Districts</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Regions)
+        {
+            string selectedRow = "";
+            if (item.Id == (int?)ViewData["RegionId"])
+            {
+                selectedRow = "success";
+            }
+            <tr class="@selectedRow">
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Capital)
+                </td>
+                <td>
+                    @{
+                        foreach (var d in item.Districts)
+                        {
+                            @d.Name <br />
+                        }
+                    }
+                </td>
+                <td>
+                    <a asp-action="Index" asp-route-id="@item.Id">Select</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (Model.Districts != null)
+{
+    <h3>Districts</h3>
+    <table class="table">
+        <tr>
+            <th>Name</th>
+            <th>Settlements</th>
+        </tr>
+        @foreach (var item in Model.Districts)
+        {
+            string selectedRow = "";
+            if (item.Id == (int?)ViewData["DistrictId"])
+            {
+                selectedRow = "success";
+            }
+            <tr class="@selectedRow">
+                <td> @item.Name </td>
+                <td>
+                    @{
+                        foreach (var s in item.Settlements)
+                        {
+                            @s.Name <br />
+                        }
+                    }
+                </td>
+                <td>
+                    @Html.ActionLink("Select", "Index", new { districtId = item.Id })
+                </td>
+            </tr>
+        }
+    </table>
+}
+
+@if (Model.Settlements != null)
+{
+    <h4>Settlements from Selected District</h4>
+    <a asp-controller="Settlements" asp-action="Create">Create new</a>
+    <table class="table">
+        <tr>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Population</th>
+        </tr>
+        @foreach (var item in Model.Settlements)
+        {
+            <tr>
+                <td>
+                    <div> <input type="hidden" asp-for=@item.Id></div>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Type)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Population)
+                </td>
+                <td>
+                    <a asp-controller="Settlements" asp-action="Edit" asp-route-id="@item.Id">Edit</a> <br>
+                    <a asp-controller="Settlements" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+}

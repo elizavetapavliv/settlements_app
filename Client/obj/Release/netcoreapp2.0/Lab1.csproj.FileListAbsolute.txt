@@ -1,0 +1,11 @@
+C:\Service\Lab1\Lab1\Lab1\Lab1\bin\Release\netcoreapp2.0\Lab1.deps.json
+C:\Service\Lab1\Lab1\Lab1\Lab1\bin\Release\netcoreapp2.0\Lab1.runtimeconfig.json
+C:\Service\Lab1\Lab1\Lab1\Lab1\bin\Release\netcoreapp2.0\Lab1.runtimeconfig.dev.json
+C:\Service\Lab1\Lab1\Lab1\Lab1\bin\Release\netcoreapp2.0\Lab1.dll
+C:\Service\Lab1\Lab1\Lab1\Lab1\bin\Release\netcoreapp2.0\Lab1.pdb
+C:\Service\Lab1\Lab1\Lab1\Lab1\obj\Release\netcoreapp2.0\Lab1.csprojResolveAssemblyReference.cache
+C:\Service\Lab1\Lab1\Lab1\Lab1\obj\Release\netcoreapp2.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Service\Lab1\Lab1\Lab1\Lab1\obj\Release\netcoreapp2.0\Lab1.AssemblyInfoInputs.cache
+C:\Service\Lab1\Lab1\Lab1\Lab1\obj\Release\netcoreapp2.0\Lab1.AssemblyInfo.cs
+C:\Service\Lab1\Lab1\Lab1\Lab1\obj\Release\netcoreapp2.0\Lab1.dll
+C:\Service\Lab1\Lab1\Lab1\Lab1\obj\Release\netcoreapp2.0\Lab1.pdb
